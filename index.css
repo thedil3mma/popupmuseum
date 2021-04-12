@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Scada:ital@0;1&display=swap');
+@import url("https://use.typekit.net/wcy2kdp.css");
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;1,200&display=swap');
+
+body {
+  background-color: #FEFFEB;
+
+}
+
+.logo {
+  width: 10%;
+  height: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 5%;
+}
+
+.iphoneimg {
+  width: 302px;
+  height: 403px;
+  margin: 5%;
+  text-align: center;
+}
+
+.horizimg {
+  width: 403px;
+  height: 302px;
+  margin: 5%;
+  text-align: center;
+}
+
+.img {
+  display: block;
+  width: 403px;
+  height: 403px;
+  margin: 5%;
+  text-align: center;
+}
+
+.gallery{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+.video {
+  display: flex;
+  width: 403px;
+  height: 302px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+h1 {
+  margin:5% 20%;
+  margin-top: 2%;
+  width: 60%;
+  text-align: center;
+  line-height: 90%;
+  font-size: 50px;
+  padding:0%;
+  font-family: "Muli", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: #1C3738;
+}
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 1% 30%;
+    width: 40%;
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+    font-family: "Signika Negative";
+    font-weight: 250;
+    color: #909580;
+  }
+
+li a {
+  color: inherit;
+  text-decoration: none;
+  padding: 1%
+}
+
+li a:hover {
+  color: #DE9151;
+  background-color: #1C3738;
+}
+
+.bodytext {
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: left;
+  margin-top: 1%;
+  margin-left: 27.5%;
+  margin-right: 27.5%;
+  margin-bottom: 8%;
+    width:40%;
+    line-height: 2;
+    font-family: "Signika Negative";
+    font-weight: 250;
+    font-size: 14pt;
+    background-color:  #FEFFEB;
+    color: #1C3738;
+}
